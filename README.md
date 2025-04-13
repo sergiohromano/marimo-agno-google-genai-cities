@@ -4,10 +4,10 @@ A simple CLI tool to generate a list of cities from Marimo, Agno and Google Gena
 
 ## Requirements
 
-- Python 3.13+
-- Marimo
-- Agno
-- Google Genai
+- [Python 3.13+](https://www.python.org/)
+- [Marimo](https://marimo.io/)
+- [Agno](https://www.agno.com/)
+- [Google Genai](https://googleapis.github.io/python-genai)
 
 ## Environment
 
